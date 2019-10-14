@@ -1,0 +1,188 @@
+# User Stories (add as appropriate, modify at each Sprint Planning Meeting
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : High
+ESTIMATE : 3 days (stuff will be slowly added and changed)
+AS A     : player
+I WANT   : to see a GUI that shows a bar with how much water is in each jug
+		   and also be able to use the GUI to complete the game.
+SO THAT  : the player can see how much each jug has
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move 
+PRIORITY : Med
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : Low
+ESTIMATE : 3 hours max
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : High
+ESTIMATE : 3 Days
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : the player can see how much each jug has
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : Low
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  : player doesn't keep making moves and stops playing.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : Low
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : Med
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : the player can try beating the game in fewer step if wanted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY : Low
+ESTIMATE : 2 hours
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : if they feel they need to start from scratch.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY : Low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  : 
+--------------------------------------------------------------------------
+
+
+
+# COMPLETED USER STORIES BELOW ###########################################
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : High
+ESTIMATE : 3 days
+AS A     : player
+I WANT   : to see a GUI that shows a bar with how much water is in each jug
+		   and also be able to use the GUI to complete the game.
+SO THAT  : the player can see how much each jug has
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY : Med
+ESTIMATE : 
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : Low
+ESTIMATE : 3 hours max
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : High
+ESTIMATE : 3 Days
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : the player can see how much each jug has
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : Low
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  : player doesn't keep making moves and stops playing.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : Low
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : Med
+ESTIMATE : 3 hours
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : the player can try beating the game in fewer step if wanted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY : Low
+ESTIMATE : 2 hours
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : if they feel they need to start from scratch.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY : Low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Commenting and Javadocs
+PRIORITY : Low
+ESTIMATE : 1 hour (MAX)
+AS A     : developer
+I WANT   : to be able to understand game code
+SO THAT  : I can understand whats going on
+--------------------------------------------------------------------------
+
+# OMITTED USER STORIES BELOW   ###########################################
+

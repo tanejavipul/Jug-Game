@@ -1,0 +1,25 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 6, 2016
+**During this sprint, not much was done due to days of
+**and time was spent to understand the concept and how to
+**efficiently apply it in Jug Game
+See GUI -> was not completed but was started
+
+# Sprint 2 October 9, 2016
+See GUI
+Make Move 
+See number of moves
+See State of Jugs
+Won alert
+Won Halts Game
+New Game when Won
+New Game Anytime
+Quit Anytime
+
+# Sprint 3 October 12, 2016
+Commenting and Javadocs // for TA to understand code if they find something confusing
+
+

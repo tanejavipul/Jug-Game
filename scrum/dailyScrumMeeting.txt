@@ -1,0 +1,78 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : Trying to figure out how everything works and where to start.
+				Also need to clear up some questions about scrum.
+				
+Oct 7, 2016
+	Yesterday :
+	Today     : Day Off due to Indian Festival.
+				But think of ways to implement the game and the GUI throughout 
+				the day. 
+	Obstacles : What steps to take first and etc?
+	
+Oct 8, 2016
+	Yesterday : Figured ways to implement the game.
+	Today     : Start by planning how the GUI is going to look then start adding view classes
+				and observe class to Jug and Jug Puzzle. Also try to find a way to implement
+				vertical java progress bars to visually show the jugs amount filled. Just starting
+				the classes, will not be completed.
+	Obstacles : Trying to figure out how observe class works and how to make progress bars 
+	
+Oct 9, 2016
+	Yesterday : Program failed but classes were made a design for GUI was finalized. 
+	Today     : Try to understand what was wrong with the code and fix it. Try to get 
+				something showing on GUI so some progress can be seen.
+	Obstacles : Understanding observe and why program is failing.
+	
+Oct 10, 2016
+	Yesterday : Program started running after restarting eclipse, so this was a 
+				complier issue not a code error.
+	Today     : Work on completing GUI so get all the buttons and progress bar.
+				If time then implement the action listener and try to figure out
+				a way to stop game if the person wins.
+	Obstacles : figuring out a way to stop the game when player wins
+	
+Oct 11, 2016
+	Yesterday : Got the GUI showing and add actionlistner
+	Today     : Perfect code, make some button like reset and shutdown and make sure everything works.
+				Fix actionListner and if time then implement winning so game stops.
+	Obstacles : Implementing winning will take some thinking.
+	
+Oct 12, 2016
+	Yesterday : Game works just some stuff left to do
+	Today     : Finish the Game like stop game when won and fix progress bar
+	Obstacles : Find a way to stop the game not hard but what to be creative.
+	
+Oct 13, 2016
+	Yesterday : Found a way to stop the game and fix progress bar
+	Today     : Commenting and Javadocs
+	Obstacles : /
+	
+Oct 14, 2016
+	Yesterday : Game was complete
+	Today     : Day Off
+	Obstacles :
+	
+Oct 15, 2016
+	Yesterday : Day Off
+	Today     : Fix some error if found and LAST MINUTE CHECKS or code changes
+				Commit and push by tonight at midnight for ontime submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
